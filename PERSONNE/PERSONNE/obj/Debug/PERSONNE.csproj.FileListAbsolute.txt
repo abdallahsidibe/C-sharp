@@ -1,0 +1,7 @@
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\obj\Debug\PERSONNE.csprojAssemblyReference.cache
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\obj\Debug\PERSONNE.csproj.CoreCompileInputs.cache
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\bin\Debug\PERSONNE.exe.config
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\bin\Debug\PERSONNE.exe
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\bin\Debug\PERSONNE.pdb
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\obj\Debug\PERSONNE.exe
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\PERSONNE\PERSONNE\obj\Debug\PERSONNE.pdb

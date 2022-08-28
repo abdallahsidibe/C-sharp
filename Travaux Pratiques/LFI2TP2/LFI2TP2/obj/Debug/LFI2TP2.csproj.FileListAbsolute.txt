@@ -1,0 +1,6 @@
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\COURS\Travaux Pratiques\LFI2TP2\LFI2TP2\obj\Debug\LFI2TP2.csproj.CoreCompileInputs.cache
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\COURS\Travaux Pratiques\LFI2TP2\LFI2TP2\bin\Debug\LFI2TP2.exe.config
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\COURS\Travaux Pratiques\LFI2TP2\LFI2TP2\bin\Debug\LFI2TP2.exe
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\COURS\Travaux Pratiques\LFI2TP2\LFI2TP2\bin\Debug\LFI2TP2.pdb
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\COURS\Travaux Pratiques\LFI2TP2\LFI2TP2\obj\Debug\LFI2TP2.exe
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\COURS\Travaux Pratiques\LFI2TP2\LFI2TP2\obj\Debug\LFI2TP2.pdb
