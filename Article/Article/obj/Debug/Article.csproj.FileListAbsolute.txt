@@ -1,0 +1,7 @@
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\bin\Debug\Article.exe.config
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\bin\Debug\Article.exe
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\bin\Debug\Article.pdb
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\obj\Debug\Article.csprojAssemblyReference.cache
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\obj\Debug\Article.csproj.CoreCompileInputs.cache
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\obj\Debug\Article.exe
+D:\ETUDE\l2\Licence 2 FSM\SEMESTRE 2\Environnement de développement et SGBD\EXERCICES\Article\Article\obj\Debug\Article.pdb
